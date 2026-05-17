@@ -1,0 +1,34 @@
+*{
+    background-color: #BA9572;
+}
+
+/* Aqui na section eu apliquei as estilizacoes do box model */
+section{
+    border: 2px dotted black;
+    border-width: 5px;
+    padding: 1%;
+    margin: 10px 50px 20px;
+}
+
+/* No titulo eu coloquei uma tag de classe por isso o uso do ponto e utilizei de uma fonte externa, text align center para deixar o titulo no meio da pagina */
+.titulo{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    color: #403327;
+    font-size: 50px;
+}
+
+ul{
+list-style-type: square;
+}
+
+h2{
+    color: antiquewhite;
+}
+
+#footer{
+    text-align: center ;
+}
+
+
+
